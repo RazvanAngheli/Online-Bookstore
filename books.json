@@ -1,0 +1,992 @@
+[
+    {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "description": "A story of the fabulously wealthy Jay Gatsby and his love for Daisy Buchanan.",
+        "cover": "https://picsum.photos/200/300?random=1",
+        "price": 10.99,
+        "category": "Fiction",
+        "discount_price": null
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "description": "A novel about the serious issues of race, class, and morality in the Deep South.",
+        "cover": "https://picsum.photos/200/300?random=2",
+        "price": 8.99,
+        "category": "Fiction",
+        "discount_price": 7.99
+    },
+    {
+        "id": 3,
+        "title": "Jane Eyre",
+        "description": "A tale of a young woman's struggles, independence, and resilience in Victorian England.",
+        "cover": "https://picsum.photos/200/300?random=4",
+        "price": 7.99,
+        "category": "Fiction",
+        "discount_price": 6.99
+    },
+    {
+        "id": 4,
+        "title": "The Catcher in the Rye",
+        "description": "A story about teenage rebellion, self-discovery, and alienation in mid-20th-century America.",
+        "cover": "https://picsum.photos/200/300?random=5",
+        "price": 11.99,
+        "category": "Fiction",
+        "discount_price": 10.99
+    },
+    {
+        "id": 5,
+        "title": "Beloved",
+        "description": "A haunting exploration of slavery's emotional and psychological scars through the story of Sethe, a former enslaved woman.",
+        "cover": "https://picsum.photos/200/300?random=6",
+        "price": 12.99,
+        "category": "Fiction",
+        "discount_price": null
+    },
+    {
+        "id": 6,
+        "title": "The Book Thief",
+        "description": "The tale of a young girl, her love for books, and her experiences during World War II in Nazi Germany.",
+        "cover": "https://picsum.photos/200/300?random=7",
+        "price": 13.49,
+        "category": "Fiction",
+        "discount_price": 12.49
+    },
+    {
+        "id": 7,
+        "title": "Atonement",
+        "description": "A gripping story of love, betrayal, and the consequences of a single lie during World War II.",
+        "cover": "https://picsum.photos/200/300?random=8",
+        "price": 14.99,
+        "category": "Fiction",
+        "discount_price": null
+    },
+    {
+        "id": 8,
+        "title": "The Road",
+        "description": "A deeply moving story of a father and son traveling through a bleak and desolate post-apocalyptic world.",
+        "cover": "https://picsum.photos/200/300?random=9",
+        "price": 14.49,
+        "category": "Fiction",
+        "discount_price": 12.49
+    },
+    {
+        "id": 9,
+        "title": "Of Mice and Men",
+        "description": "A moving story of friendship and dreams during the Great Depression.",
+        "cover": "https://picsum.photos/200/300?random=10",
+        "price": 9.49,
+        "category": "Fiction",
+        "discount_price": 8.49
+    },
+    {
+        "id": 10,
+        "title": "The Grapes of Wrath",
+        "description": "A powerful story of a family's struggles during the Great Depression.",
+        "cover": "https://picsum.photos/200/300?random=11",
+        "price": 13.99,
+        "category": "Fiction",
+        "discount_price": null
+    },
+    {
+        "id": 11,
+        "title": "The Gruffalo",
+        "description": "A fun and imaginative story about a mouse and his imaginary friend, the Gruffalo.",
+        "cover": "https://picsum.photos/200/300?random=1",
+        "price": 7.50,
+        "category": "Children",
+        "discount_price": null
+    },
+    {
+        "id": 12,
+        "title": "Charlotte's Web",
+        "description": "A heartwarming story about friendship and life on a farm.",
+        "cover": "https://picsum.photos/200/300?random=2",
+        "price": 8.99,
+        "category": "Children",
+        "discount_price": 7.49
+    },
+    {
+        "id": 13,
+        "title": "Matilda",
+        "description": "A story of a brilliant little girl with extraordinary powers.",
+        "cover": "https://picsum.photos/200/300?random=3",
+        "price": 10.99,
+        "category": "Children",
+        "discount_price": 9.99
+    },
+    {
+        "id": 14,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "description": "The beginning of Harry Potter's magical adventures at Hogwarts.",
+        "cover": "https://picsum.photos/200/300?random=4",
+        "price": 12.99,
+        "category": "Children",
+        "discount_price": null
+    },
+    {
+        "id": 15,
+        "title": "The Cat in the Hat",
+        "description": "Dr. Seuss's whimsical tale of a mischievous cat.",
+        "cover": "https://picsum.photos/200/300?random=5",
+        "price": 6.99,
+        "category": "Children",
+        "discount_price": null
+    },
+    {
+        "id": 16,
+        "title": "Where the Wild Things Are",
+        "description": "A story about a boy's adventure to an island of wild creatures.",
+        "cover": "https://picsum.photos/200/300?random=6",
+        "price": 8.49,
+        "category": "Children",
+        "discount_price": null
+    },
+    {
+        "id": 17,
+        "title": "The Tale of Peter Rabbit",
+        "description": "The classic tale of a mischievous rabbit and his adventures.",
+        "cover": "https://picsum.photos/200/300?random=7",
+        "price": 5.99,
+        "category": "Children",
+        "discount_price": null
+    },
+    {
+        "id": 18,
+        "title": "The Giving Tree",
+        "description": "A touching story about generosity and selflessness.",
+        "cover": "https://picsum.photos/200/300?random=8",
+        "price": 9.49,
+        "category": "Children",
+        "discount_price": 7.99
+    },
+    {
+        "id": 19,
+        "title": "Goodnight Moon",
+        "description": "A gentle bedtime story that has comforted generations of children.",
+        "cover": "https://picsum.photos/200/300?random=9",
+        "price": 6.49,
+        "category": "Children",
+        "discount_price": null
+    },
+    {
+        "id": 20,
+        "title": "The Very Hungry Caterpillar",
+        "description": "A colorful and fun story about a caterpillar's journey to becoming a butterfly.",
+        "cover": "https://picsum.photos/200/300?random=10",
+        "price": 5.99,
+        "category": "Children",
+        "discount_price": 4.99
+    },
+    {
+        "id": 21,
+        "title": "Dune",
+        "description": "A sweeping tale of politics, religion, and survival on the desert planet of Arrakis.",
+        "cover": "https://picsum.photos/200/300?random=1",
+        "price": 14.99,
+        "category": "Science Fiction",
+        "discount_price": 12.99
+    },
+    {
+        "id": 22,
+        "title": "Ender's Game",
+        "description": "A story of a young boy's journey to become Earth's greatest military commander.",
+        "cover": "https://picsum.photos/200/300?random=2",
+        "price": 11.99,
+        "category": "Science Fiction",
+        "discount_price": null
+    },
+    {
+        "id": 23,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "description": "A hilarious adventure across the universe with Arthur Dent.",
+        "cover": "https://picsum.photos/200/300?random=3",
+        "price": 9.99,
+        "category": "Science Fiction",
+        "discount_price": null
+    },
+    {
+        "id": 24,
+        "title": "Foundation",
+        "description": "Isaac Asimov's epic tale of a galactic empire and the science of psychohistory.",
+        "cover": "https://picsum.photos/200/300?random=4",
+        "price": 13.99,
+        "category": "Science Fiction",
+        "discount_price": 11.99
+    },
+    {
+        "id": 25,
+        "title": "Neuromancer",
+        "description": "A cyberpunk classic about a washed-up computer hacker hired for a final mission.",
+        "cover": "https://picsum.photos/200/300?random=5",
+        "price": 10.49,
+        "category": "Science Fiction",
+        "discount_price": null
+    },
+    {
+        "id": 26,
+        "title": "Snow Crash",
+        "description": "A speculative future filled with virtual reality, hackers, and corporate-controlled societies.",
+        "cover": "https://picsum.photos/200/300?random=6",
+        "price": 12.49,
+        "category": "Science Fiction",
+        "discount_price": 10.49
+    },
+    {
+        "id": 27,
+        "title": "The War of the Worlds",
+        "description": "H.G. Wells' classic tale of humanity's battle against Martian invaders.",
+        "cover": "https://picsum.photos/200/300?random=7",
+        "price": 8.99,
+        "category": "Science Fiction",
+        "discount_price": 7.49
+    },
+    {
+        "id": 28,
+        "title": "2001: A Space Odyssey",
+        "description": "A journey through time and space, exploring humanity's place in the universe.",
+        "cover": "https://picsum.photos/200/300?random=8",
+        "price": 13.49,
+        "category": "Science Fiction",
+        "discount_price": null
+    },
+    {
+        "id": 29,
+        "title": "Brave New World",
+        "description": "A dystopian future exploring the dangers of technology and societal control.",
+        "cover": "https://picsum.photos/200/300?random=9",
+        "price": 15.99,
+        "category": "Science Fiction",
+        "discount_price": null
+    },
+    {
+        "id": 30,
+        "title": "Hyperion",
+        "description": "A sweeping tale of intergalactic pilgrimage, mystery, and ancient beings.",
+        "cover": "https://picsum.photos/200/300?random=10",
+        "price": 14.99,
+        "category": "Science Fiction",
+        "discount_price": 12.99
+    },
+    {
+        "id": 31,
+        "title": "Pride and Prejudice",
+        "description": "A romantic novel about manners, upbringing, and marriage in Regency-era England.",
+        "cover": "https://picsum.photos/200/300?random=1",
+        "price": 9.99,
+        "category": "Romance",
+        "discount_price": null
+    },
+    {
+        "id": 32,
+        "title": "The Notebook",
+        "description": "A heartwarming story of a couple's lifelong romance despite challenges and separation.",
+        "cover": "https://picsum.photos/200/300?random=2",
+        "price": 8.99,
+        "category": "Romance",
+        "discount_price": 7.99
+    },
+    {
+        "id": 33,
+        "title": "Me Before You",
+        "description": "A touching story of an unexpected romance between a caregiver and her patient.",
+        "cover": "https://picsum.photos/200/300?random=3",
+        "price": 12.49,
+        "category": "Romance",
+        "discount_price": 10.99
+    },
+    {
+        "id": 34,
+        "title": "Outlander",
+        "description": "A historical romance involving time travel and a sweeping love story.",
+        "cover": "https://picsum.photos/200/300?random=4",
+        "price": 14.99,
+        "category": "Romance",
+        "discount_price": null
+    },
+    {
+        "id": 35,
+        "title": "The Time Traveler's Wife",
+        "description": "A unique love story between a woman and a man who involuntarily travels through time.",
+        "cover": "https://picsum.photos/200/300?random=5",
+        "price": 11.99,
+        "category": "Romance",
+        "discount_price": null
+    },
+    {
+        "id": 36,
+        "title": "The Fault in Our Stars",
+        "description": "A tear-jerking romance about two teenagers battling illness and finding love.",
+        "cover": "https://picsum.photos/200/300?random=6",
+        "price": 10.99,
+        "category": "Romance",
+        "discount_price": 9.49
+    },
+    {
+        "id": 37,
+        "title": "Gone with the Wind",
+        "description": "A historical romance set during the American Civil War.",
+        "cover": "https://picsum.photos/200/300?random=7",
+        "price": 15.99,
+        "category": "Romance",
+        "discount_price": 13.99
+    },
+    {
+        "id": 38,
+        "title": "Eleanor & Park",
+        "description": "A bittersweet young adult romance about two misfit teenagers.",
+        "cover": "https://picsum.photos/200/300?random=8",
+        "price": 9.49,
+        "category": "Romance",
+        "discount_price": null
+    },
+    {
+        "id": 39,
+        "title": "The Rosie Project",
+        "description": "A quirky romantic comedy about a genetics professor searching for love.",
+        "cover": "https://picsum.photos/200/300?random=9",
+        "price": 11.49,
+        "category": "Romance",
+        "discount_price": 10.49
+    },
+    {
+        "id": 40,
+        "title": "Love in the Time of Cholera",
+        "description": "A sweeping tale of unrequited love that spans decades.",
+        "cover": "https://picsum.photos/200/300?random=10",
+        "price": 13.99,
+        "category": "Romance",
+        "discount_price": null
+    },
+    {
+        "id": 41,
+        "title": "The Girl with the Dragon Tattoo",
+        "description": "A gripping mystery about a journalist and a hacker investigating a decades-old disappearance.",
+        "cover": "https://picsum.photos/200/300?random=1",
+        "price": 13.99,
+        "category": "Mystery",
+        "discount_price": 11.99
+    },
+    {
+        "id": 42,
+        "title": "Gone Girl",
+        "description": "A psychological thriller about a wife's disappearance and her husband’s secrets.",
+        "cover": "https://picsum.photos/200/300?random=2",
+        "price": 14.99,
+        "category": "Mystery",
+        "discount_price": null
+    },
+    {
+        "id": 43,
+        "title": "The Da Vinci Code",
+        "description": "A fast-paced mystery involving secret societies, hidden codes, and religious conspiracies.",
+        "cover": "https://picsum.photos/200/300?random=3",
+        "price": 12.49,
+        "category": "Mystery",
+        "discount_price": 10.49
+    },
+    {
+        "id": 44,
+        "title": "Sherlock Holmes: The Hound of the Baskervilles",
+        "description": "One of Sherlock Holmes' most famous cases, involving a mysterious curse and a family estate.",
+        "cover": "https://picsum.photos/200/300?random=4",
+        "price": 9.99,
+        "category": "Mystery",
+        "discount_price": 8.99
+    },
+    {
+        "id": 45,
+        "title": "Big Little Lies",
+        "description": "A tale of secrets and lies unraveling among a group of suburban women.",
+        "cover": "https://picsum.photos/200/300?random=5",
+        "price": 11.99,
+        "category": "Mystery",
+        "discount_price": null
+    },
+    {
+        "id": 46,
+        "title": "In the Woods",
+        "description": "A chilling mystery of a detective investigating a murder linked to his own past.",
+        "cover": "https://picsum.photos/200/300?random=6",
+        "price": 13.49,
+        "category": "Mystery",
+        "discount_price": null
+    },
+    {
+        "id": 47,
+        "title": "The Silent Patient",
+        "description": "A psychological thriller about a woman who stops speaking after being accused of murder.",
+        "cover": "https://picsum.photos/200/300?random=7",
+        "price": 14.99,
+        "category": "Mystery",
+        "discount_price": 12.99
+    },
+    {
+        "id": 48,
+        "title": "The Woman in the Window",
+        "description": "A suspenseful mystery about a woman who witnesses a crime while spying on her neighbors.",
+        "cover": "https://picsum.photos/200/300?random=8",
+        "price": 12.99,
+        "category": "Mystery",
+        "discount_price": 10.99
+    },
+    {
+        "id": 49,
+        "title": "And Then There Were None",
+        "description": "A classic Agatha Christie mystery about strangers invited to an island, each meeting a mysterious end.",
+        "cover": "https://picsum.photos/200/300?random=9",
+        "price": 9.49,
+        "category": "Mystery",
+        "discount_price": null
+    },
+    {
+        "id": 50,
+        "title": "The Couple Next Door",
+        "description": "A gripping tale of lies and secrets between neighbors after a baby goes missing.",
+        "cover": "https://picsum.photos/200/300?random=10",
+        "price": 10.99,
+        "category": "Mystery",
+        "discount_price": 9.49
+    },
+    {
+        "id": 51,
+        "title": "The Diary of a Young Girl",
+        "description": "The inspiring and heart-wrenching diary of Anne Frank during World War II.",
+        "cover": "https://picsum.photos/200/300?random=1",
+        "price": 9.99,
+        "category": "Biography",
+        "discount_price": null
+    },
+    {
+        "id": 52,
+        "title": "Steve Jobs",
+        "description": "The riveting biography of the Apple co-founder by Walter Isaacson.",
+        "cover": "https://picsum.photos/200/300?random=2",
+        "price": 14.99,
+        "category": "Biography",
+        "discount_price": 12.99
+    },
+    {
+        "id": 53,
+        "title": "Long Walk to Freedom",
+        "description": "The autobiography of Nelson Mandela, chronicling his life and fight for freedom.",
+        "cover": "https://picsum.photos/200/300?random=3",
+        "price": 13.49,
+        "category": "Biography",
+        "discount_price": null
+    },
+    {
+        "id": 54,
+        "title": "Becoming",
+        "description": "Michelle Obama's intimate and inspiring memoir.",
+        "cover": "https://picsum.photos/200/300?random=4",
+        "price": 15.99,
+        "category": "Biography",
+        "discount_price": 13.99
+    },
+    {
+        "id": 55,
+        "title": "The Story of My Life",
+        "description": "The inspiring autobiography of Helen Keller, who overcame immense challenges.",
+        "cover": "https://picsum.photos/200/300?random=5",
+        "price": 8.99,
+        "category": "Biography",
+        "discount_price": null
+    },
+    {
+        "id": 56,
+        "title": "Educated",
+        "description": "A memoir by Tara Westover about growing up in a survivalist family and seeking education.",
+        "cover": "https://picsum.photos/200/300?random=6",
+        "price": 12.99,
+        "category": "Biography",
+        "discount_price": 10.99
+    },
+    {
+        "id": 57,
+        "title": "I Am Malala",
+        "description": "The story of Malala Yousafzai's fight for education and women's rights.",
+        "cover": "https://picsum.photos/200/300?random=7",
+        "price": 10.99,
+        "category": "Biography",
+        "discount_price": 9.49
+    },
+    {
+        "id": 58,
+        "title": "The Wright Brothers",
+        "description": "David McCullough's biography of the pioneers of aviation, Orville and Wilbur Wright.",
+        "cover": "https://picsum.photos/200/300?random=8",
+        "price": 13.99,
+        "category": "Biography",
+        "discount_price": null
+    },
+    {
+        "id": 59,
+        "title": "Alexander Hamilton",
+        "description": "The biography of one of America's Founding Fathers by Ron Chernow.",
+        "cover": "https://picsum.photos/200/300?random=9",
+        "price": 14.49,
+        "category": "Biography",
+        "discount_price": null
+    },
+    {
+        "id": 60,
+        "title": "Einstein: His Life and Universe",
+        "description": "Walter Isaacson's compelling biography of the great physicist Albert Einstein.",
+        "cover": "https://picsum.photos/200/300?random=10",
+        "price": 15.49,
+        "category": "Biography",
+        "discount_price": 13.49
+    },
+    {
+        "id": 61,
+        "title": "The Hobbit",
+        "description": "A fantastical adventure in Middle-earth following Bilbo Baggins' journey.",
+        "cover": "https://picsum.photos/200/300?random=1",
+        "price": 13.99,
+        "category": "Fantasy",
+        "discount_price": 12.59
+    },
+    {
+        "id": 62,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "description": "The beginning of Harry Potter's magical journey at Hogwarts.",
+        "cover": "https://picsum.photos/200/300?random=2",
+        "price": 12.99,
+        "category": "Fantasy",
+        "discount_price": null
+    },
+    {
+        "id": 63,
+        "title": "A Game of Thrones",
+        "description": "The first book in the epic fantasy series 'A Song of Ice and Fire' by George R.R. Martin.",
+        "cover": "https://picsum.photos/200/300?random=3",
+        "price": 15.99,
+        "category": "Fantasy",
+        "discount_price": null
+    },
+    {
+        "id": 64,
+        "title": "The Name of the Wind",
+        "description": "The tale of Kvothe, a gifted musician and magician, in a richly imagined world.",
+        "cover": "https://picsum.photos/200/300?random=4",
+        "price": 14.49,
+        "category": "Fantasy",
+        "discount_price": 13.49
+    },
+    {
+        "id": 65,
+        "title": "The Fellowship of the Ring",
+        "description": "The first part of Tolkien's epic trilogy, 'The Lord of the Rings.'",
+        "cover": "https://picsum.photos/200/300?random=5",
+        "price": 13.99,
+        "category": "Fantasy",
+        "discount_price": null
+    },
+    {
+        "id": 66,
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "description": "A magical tale of four siblings who discover a secret world through a wardrobe.",
+        "cover": "https://picsum.photos/200/300?random=6",
+        "price": 11.99,
+        "category": "Fantasy",
+        "discount_price": 10.99
+    },
+    {
+        "id": 67,
+        "title": "Eragon",
+        "description": "The story of a farm boy who discovers a dragon egg and embarks on a magical adventure.",
+        "cover": "https://picsum.photos/200/300?random=7",
+        "price": 12.49,
+        "category": "Fantasy",
+        "discount_price": null
+    },
+    {
+        "id": 68,
+        "title": "The Golden Compass",
+        "description": "An imaginative tale of a young girl named Lyra and her quest through parallel worlds.",
+        "cover": "https://picsum.photos/200/300?random=8",
+        "price": 10.99,
+        "category": "Fantasy",
+        "discount_price": 9.49
+    },
+    {
+        "id": 69,
+        "title": "Mistborn: The Final Empire",
+        "description": "A thrilling tale of rebellion and magic in a dystopian fantasy world.",
+        "cover": "https://picsum.photos/200/300?random=9",
+        "price": 14.99,
+        "category": "Fantasy",
+        "discount_price": 12.99
+    },
+    {
+        "id": 70,
+        "title": "The Priory of the Orange Tree",
+        "description": "An epic feminist fantasy tale featuring dragons and a divided world.",
+        "cover": "https://picsum.photos/200/300?random=10",
+        "price": 16.99,
+        "category": "Fantasy",
+        "discount_price": null
+    },
+    {
+        "id": 71,
+        "title": "Sapiens: A Brief History of Humankind",
+        "description": "A sweeping narrative of human history, from the Stone Age to the present.",
+        "cover": "https://picsum.photos/200/300?random=1",
+        "price": 14.99,
+        "category": "History",
+        "discount_price": 13.49
+    },
+    {
+        "id": 72,
+        "title": "The History of the Ancient World",
+        "description": "A detailed history of the early civilizations from Mesopotamia to the fall of Rome.",
+        "cover": "https://picsum.photos/200/300?random=2",
+        "price": 15.49,
+        "category": "History",
+        "discount_price": null
+    },
+    {
+        "id": 73,
+        "title": "Guns, Germs, and Steel",
+        "description": "An exploration of how geography and environment shaped human societies.",
+        "cover": "https://picsum.photos/200/300?random=3",
+        "price": 13.99,
+        "category": "History",
+        "discount_price": 12.49
+    },
+    {
+        "id": 74,
+        "title": "A People's History of the United States",
+        "description": "A compelling narrative of American history from the perspective of marginalized groups.",
+        "cover": "https://picsum.photos/200/300?random=4",
+        "price": 12.99,
+        "category": "History",
+        "discount_price": null
+    },
+    {
+        "id": 75,
+        "title": "The Silk Roads: A New History of the World",
+        "description": "A fresh look at the history of the world, focusing on the importance of the Silk Road.",
+        "cover": "https://picsum.photos/200/300?random=5",
+        "price": 14.49,
+        "category": "History",
+        "discount_price": 12.99
+    },
+    {
+        "id": 76,
+        "title": "The Wright Brothers",
+        "description": "David McCullough’s biography of Orville and Wilbur Wright and their contributions to aviation history.",
+        "cover": "https://picsum.photos/200/300?random=6",
+        "price": 13.99,
+        "category": "History",
+        "discount_price": null
+    },
+    {
+        "id": 77,
+        "title": "The Rise and Fall of the Third Reich",
+        "description": "An exhaustive history of Nazi Germany and World War II.",
+        "cover": "https://picsum.photos/200/300?random=7",
+        "price": 16.99,
+        "category": "History",
+        "discount_price": null
+    },
+    {
+        "id": 78,
+        "title": "1776",
+        "description": "David McCullough’s vivid account of America’s fight for independence.",
+        "cover": "https://picsum.photos/200/300?random=8",
+        "price": 12.49,
+        "category": "History",
+        "discount_price": 10.99
+    },
+    {
+        "id": 79,
+        "title": "Team of Rivals",
+        "description": "Doris Kearns Goodwin’s history of Abraham Lincoln's leadership during the Civil War.",
+        "cover": "https://picsum.photos/200/300?random=9",
+        "price": 14.99,
+        "category": "History",
+        "discount_price": 13.49
+    },
+    {
+        "id": 80,
+        "title": "The Crusades: The Authoritative History of the War for the Holy Land",
+        "description": "A gripping account of one of the most controversial and complex series of wars in history.",
+        "cover": "https://picsum.photos/200/300?random=10",
+        "price": 15.99,
+        "category": "History",
+        "discount_price": null
+    },
+    {
+        "id": 81,
+        "title": "Meditations",
+        "description": "The personal writings of Roman Emperor Marcus Aurelius on Stoic philosophy.",
+        "cover": "https://picsum.photos/200/300?random=1",
+        "price": 9.99,
+        "category": "Philosophy",
+        "discount_price": 8.99
+    },
+    {
+        "id": 82,
+        "title": "The Republic",
+        "description": "Plato's seminal work on justice, politics, and the ideal society.",
+        "cover": "https://picsum.photos/200/300?random=2",
+        "price": 11.99,
+        "category": "Philosophy",
+        "discount_price": 10.99
+    },
+    {
+        "id": 83,
+        "title": "Nicomachean Ethics",
+        "description": "Aristotle's exploration of virtue and the path to a good life.",
+        "cover": "https://picsum.photos/200/300?random=3",
+        "price": 10.49,
+        "category": "Philosophy",
+        "discount_price": null
+    },
+    {
+        "id": 84,
+        "title": "Being and Time",
+        "description": "Martin Heidegger's influential work on existence and ontology.",
+        "cover": "https://picsum.photos/200/300?random=4",
+        "price": 14.99,
+        "category": "Philosophy",
+        "discount_price": 12.99
+    },
+    {
+        "id": 85,
+        "title": "Critique of Pure Reason",
+        "description": "Immanuel Kant's groundbreaking work on reason, experience, and metaphysics.",
+        "cover": "https://picsum.photos/200/300?random=5",
+        "price": 15.99,
+        "category": "Philosophy",
+        "discount_price": null
+    },
+    {
+        "id": 86,
+        "title": "The Art of War",
+        "description": "Sun Tzu's classic work on strategy, philosophy, and leadership.",
+        "cover": "https://picsum.photos/200/300?random=6",
+        "price": 8.49,
+        "category": "Philosophy",
+        "discount_price": 7.49
+    },
+    {
+        "id": 87,
+        "title": "Beyond Good and Evil",
+        "description": "Friedrich Nietzsche's provocative exploration of morality and human values.",
+        "cover": "https://picsum.photos/200/300?random=7",
+        "price": 9.99,
+        "category": "Philosophy",
+        "discount_price": null
+    },
+    {
+        "id": 88,
+        "title": "The Myth of Sisyphus",
+        "description": "Albert Camus' philosophical essay on the absurd and the meaning of life.",
+        "cover": "https://picsum.photos/200/300?random=8",
+        "price": 10.99,
+        "category": "Philosophy",
+        "discount_price": 9.49
+    },
+    {
+        "id": 89,
+        "title": "The Prince",
+        "description": "Niccolò Machiavelli's timeless treatise on power, politics, and leadership.",
+        "cover": "https://picsum.photos/200/300?random=9",
+        "price": 9.49,
+        "category": "Philosophy",
+        "discount_price": 8.49
+    },
+    {
+        "id": 90,
+        "title": "The Tao Te Ching",
+        "description": "Lao Tzu's classic text on Taoist philosophy and the nature of existence.",
+        "cover": "https://picsum.photos/200/300?random=10",
+        "price": 8.99,
+        "category": "Philosophy",
+        "discount_price": null
+    },
+    {
+        "id": 91,
+        "title": "1984",
+        "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+        "cover": "https://picsum.photos/200/300?random=1",
+        "price": 14.99,
+        "category": "Dystopian",
+        "discount_price": 13.49
+    },
+    {
+        "id": 92,
+        "title": "Brave New World",
+        "description": "A dystopian future exploring the dangers of technology and societal control.",
+        "cover": "https://picsum.photos/200/300?random=2",
+        "price": 15.99,
+        "category": "Dystopian",
+        "discount_price": null
+    },
+    {
+        "id": 93,
+        "title": "The Handmaid's Tale",
+        "description": "A chilling story about a totalitarian society where women are stripped of their rights.",
+        "cover": "https://picsum.photos/200/300?random=3",
+        "price": 13.99,
+        "category": "Dystopian",
+        "discount_price": 12.49
+    },
+    {
+        "id": 94,
+        "title": "Fahrenheit 451",
+        "description": "A story of a future where books are banned and burned to control knowledge.",
+        "cover": "https://picsum.photos/200/300?random=4",
+        "price": 12.99,
+        "category": "Dystopian",
+        "discount_price": 10.99
+    },
+    {
+        "id": 95,
+        "title": "The Hunger Games",
+        "description": "A thrilling tale of survival and rebellion in a dystopian world.",
+        "cover": "https://picsum.photos/200/300?random=5",
+        "price": 11.99,
+        "category": "Dystopian",
+        "discount_price": null
+    },
+    {
+        "id": 96,
+        "title": "The Road",
+        "description": "A deeply moving story of a father and son traveling through a bleak, post-apocalyptic world.",
+        "cover": "https://picsum.photos/200/300?random=6",
+        "price": 14.49,
+        "category": "Dystopian",
+        "discount_price": 12.49
+    },
+    {
+        "id": 97,
+        "title": "Divergent",
+        "description": "A story about a society divided into factions and a girl who doesn’t fit in.",
+        "cover": "https://picsum.photos/200/300?random=7",
+        "price": 10.99,
+        "category": "Dystopian",
+        "discount_price": 9.49
+    },
+    {
+        "id": 98,
+        "title": "The Maze Runner",
+        "description": "A group of boys trapped in a mysterious maze struggle to find freedom.",
+        "cover": "https://picsum.photos/200/300?random=8",
+        "price": 11.49,
+        "category": "Dystopian",
+        "discount_price": null
+    },
+    {
+        "id": 99,
+        "title": "Station Eleven",
+        "description": "A haunting story of life after a devastating flu pandemic collapses civilization.",
+        "cover": "https://picsum.photos/200/300?random=9",
+        "price": 13.49,
+        "category": "Dystopian",
+        "discount_price": null
+    },
+    {
+        "id": 100,
+        "title": "We",
+        "description": "A dystopian classic about a futuristic society under constant surveillance.",
+        "cover": "https://picsum.photos/200/300?random=10",
+        "price": 9.99,
+        "category": "Dystopian",
+        "discount_price": 8.99
+    },
+    {
+        "id": 101,
+        "title": "Moby Dick",
+        "description": "An epic tale of Captain Ahab's obsession with hunting the white whale.",
+        "cover": "https://picsum.photos/200/300?random=1",
+        "price": 12.99,
+        "category": "Adventure",
+        "discount_price": 11.69
+    },
+    {
+        "id": 102,
+        "title": "Treasure Island",
+        "description": "A classic tale of pirates, treasure maps, and high-seas adventure.",
+        "cover": "https://picsum.photos/200/300?random=2",
+        "price": 9.99,
+        "category": "Adventure",
+        "discount_price": 8.99
+    },
+    {
+        "id": 103,
+        "title": "Into the Wild",
+        "description": "The true story of Christopher McCandless' journey into the Alaskan wilderness.",
+        "cover": "https://picsum.photos/200/300?random=3",
+        "price": 11.99,
+        "category": "Adventure",
+        "discount_price": null
+    },
+    {
+        "id": 104,
+        "title": "The Call of the Wild",
+        "description": "Jack London's classic novel about a sled dog's survival and transformation in the Yukon.",
+        "cover": "https://picsum.photos/200/300?random=4",
+        "price": 8.99,
+        "category": "Adventure",
+        "discount_price": 7.99
+    },
+    {
+        "id": 105,
+        "title": "Around the World in Eighty Days",
+        "description": "Jules Verne's tale of a gentleman's daring attempt to circumnavigate the globe.",
+        "cover": "https://picsum.photos/200/300?random=5",
+        "price": 10.99,
+        "category": "Adventure",
+        "discount_price": null
+    },
+    {
+        "id": 106,
+        "title": "The Adventures of Huckleberry Finn",
+        "description": "Mark Twain's story of a young boy's journey down the Mississippi River.",
+        "cover": "https://picsum.photos/200/300?random=6",
+        "price": 9.49,
+        "category": "Adventure",
+        "discount_price": null
+    },
+    {
+        "id": 107,
+        "title": "Life of Pi",
+        "description": "The extraordinary tale of a boy stranded at sea with a Bengal tiger.",
+        "cover": "https://picsum.photos/200/300?random=7",
+        "price": 12.49,
+        "category": "Adventure",
+        "discount_price": 10.99
+    },
+    {
+        "id": 108,
+        "title": "The Lost City of Z",
+        "description": "The incredible true story of the search for a lost civilization in the Amazon.",
+        "cover": "https://picsum.photos/200/300?random=8",
+        "price": 13.99,
+        "category": "Adventure",
+        "discount_price": null
+    },
+    {
+        "id": 109,
+        "title": "Robinson Crusoe",
+        "description": "Daniel Defoe's classic tale of survival on a desert island.",
+        "cover": "https://picsum.photos/200/300?random=9",
+        "price": 10.99,
+        "category": "Adventure",
+        "discount_price": 9.99
+    },
+    {
+        "id": 110,
+        "title": "Hatchet",
+        "description": "A young boy's survival story in the Canadian wilderness after a plane crash.",
+        "cover": "https://picsum.photos/200/300?random=10",
+        "price": 8.99,
+        "category": "Adventure",
+        "discount_price": 7.49
+    }
+]
